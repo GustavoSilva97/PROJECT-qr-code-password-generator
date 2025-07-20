@@ -12,11 +12,11 @@ src/
 │   └── prompt-schema-qrcode.js     # QR Code-specific prompt configuration
 └── services/
     ├── password/
-    │   ├── create.js               # Handles password generation
-    │   └── handle.js               # Password creation logic
+    │   ├── create.js               # Password creation logic
+    │   └── handle.js               # Handles password generation
     └── qr-code/
-        ├── create.js              # Handles QR Code generation
-        └── handle.js              # QR Code creation logic
+        ├── create.js              # QR Code creation logic
+        └── handle.js              # Handles QR Code generation
 ```
 
 ## 🚀 Features
